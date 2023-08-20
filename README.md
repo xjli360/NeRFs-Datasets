@@ -21,14 +21,15 @@ https://github.com/lixiaojie-thu/NeRFs-Datasets/assets/40080699/9a3f7cb5-3dc8-42
         ├── transforms_train.json
         ├── transforms_test.json
         ├── transforms_val.json
-see more [NeRF]([https://github.com/fyusion/llff](https://github.com/bmild/nerf#generating-poses-for-your-own-scenes))
+see more [NeRF](https://github.com/bmild/nerf#generating-poses-for-your-own-scenes)
 ### datasets
-- [NeRF](https://drive.google.com/drive/folders/1JDdLGDruGNXWnM1eqY1FNL9PlStjaKWi)
+- [2020-NeRF](https://drive.google.com/drive/folders/1JDdLGDruGNXWnM1eqY1FNL9PlStjaKWi)
+- [2023-OmniObject3D](https://opendatalab.com/OpenXD-OmniObject3D-New/download)
 
 ## 1.2 realistic single object
 ### format
 ### datasets
-- omega3d
+- [2023-OmniObject3D](https://opendatalab.com/OpenXD-OmniObject3D-New/download)
 
 ## 1.3 forward facing scenes
 https://github.com/lixiaojie-thu/NeRFs-Datasets/assets/40080699/e8ef1ca7-4b89-4dab-8421-b9eb4ed686c1
@@ -50,5 +51,12 @@ https://github.com/lixiaojie-thu/NeRFs-Datasets/assets/40080699/e8ef1ca7-4b89-4d
         ├── pose_bounds.npy
         ├── simplices.npy
 see more [LLFF](https://github.com/fyusion/llff)
+### datasets
+- [2019-LLFF](https://drive.google.com/drive/folders/14boI-o5hGO9srnWaaogTU5_ji7wkX2S7)
+
+## 1.3 unbounded scenes
+
+### format
+### datasets
 
 
