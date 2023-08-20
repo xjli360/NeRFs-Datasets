@@ -8,5 +8,4 @@ If there is anything missing, welcome to contribute
 
 # Static scenes
 ### single object
-https://github.com/lixiaojie-thu/NeRFs-Datasets/blob/main/sources/single_object.mp4
-
+<video src="https://github.com/lixiaojie-thu/NeRFs-Datasets/blob/main/sources/single_object.mp4" width="320" height="240" controls></video>
