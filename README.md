@@ -8,6 +8,5 @@ If there is anything missing, welcome to contribute
 
 # Static scenes
 ### single object
-<video src="https://github.com/lixiaojie-thu/NeRFs-Datasets/blob/main/sources/single_object.mp4" controls>
-  你的浏览器不支持 <code>video</code> 标签。
-</video>
+https://user-images.githubusercontent.com/3998421/196976498-ba1ad3ab-fa18-4c55-965f-5c6683141375.mp4
+
